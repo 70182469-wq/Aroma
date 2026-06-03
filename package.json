@@ -1,0 +1,14 @@
+{
+"name": "scentora",
+"version": "1.0.0",
+"description": "Perfume website using Node.js and Express",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"author": "Hafsa Usman",
+"license": "ISC",
+"dependencies": {
+"express": "^4.21.2"
+}
+}
